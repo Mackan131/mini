@@ -1,0 +1,10 @@
+C:\Users\max.dahlkvist\source\repos\minii\minii\bin\Debug\minii.exe.config
+C:\Users\max.dahlkvist\source\repos\minii\minii\bin\Debug\minii.exe
+C:\Users\max.dahlkvist\source\repos\minii\minii\bin\Debug\minii.pdb
+C:\Users\max.dahlkvist\source\repos\minii\minii\obj\Debug\minii.csprojAssemblyReference.cache
+C:\Users\max.dahlkvist\source\repos\minii\minii\obj\Debug\minii.Form1.resources
+C:\Users\max.dahlkvist\source\repos\minii\minii\obj\Debug\minii.Properties.Resources.resources
+C:\Users\max.dahlkvist\source\repos\minii\minii\obj\Debug\minii.csproj.GenerateResource.cache
+C:\Users\max.dahlkvist\source\repos\minii\minii\obj\Debug\minii.csproj.CoreCompileInputs.cache
+C:\Users\max.dahlkvist\source\repos\minii\minii\obj\Debug\minii.exe
+C:\Users\max.dahlkvist\source\repos\minii\minii\obj\Debug\minii.pdb
